@@ -1,0 +1,32 @@
+{
+  "name": "veno-dev-main",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.21.1",
+    "tailwindcss": "^3.0.23",
+    "vue": "^3.2.31",
+    "vue-carousel": "^0.18.0",
+    "vue-kinesis": "^1.3.3",
+    "vue-mouse-parallax": "^1.3.3",
+    "vue-page-transition": "^0.2.2",
+    "vue-router": "^4.0.13",
+    "vue-scroll-reveal": "^1.0.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^5.0.1",
+    "@vue/cli-plugin-eslint": "^5.0.1",
+    "@vue/cli-service": "^5.0.1",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^8.10.0",
+    "eslint-plugin-vue": "^8.5.0",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
