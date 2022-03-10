@@ -16,7 +16,7 @@
                         </g>
                     </g>
                 </svg>
-                <span class="font-semibold text-xl tracking-tight">haruke.dev</span>
+                <span class="font-semibold text-xl tracking-tight">Haruke</span>
             </div>
             
             <div @click="toggle" class="block lg:hidden">

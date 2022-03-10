@@ -47,7 +47,7 @@
 
               <hr>
 
-              <div class="text-xl font-normal mt-2">I'm a <span class="font-bold hover:text-purple-300">13 year old</span> discord bot developer from the 🇮🇳 <span class="font-bold hover:text-purple-300">India</span> who enjoys working with both <i class="fab fa-js mr-2"></i><a class="font-bold underline hover:text-purple-300" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a> &amp; <i class="fab fa-python mr-2"></i><a class="font-bold underline hover:text-purple-300" href="https://python.org/">Python</a>.</div>
+              <div class="text-xl font-normal mt-2">I'm a <span class="font-bold hover:text-purple-300">13 year old</span> discord bot developer from 🇮🇳 <span class="font-bold hover:text-purple-300">India</span> who enjoys working with both <i class="fab fa-js mr-2"></i><a class="font-bold underline hover:text-purple-300" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a> &amp; <i class="fab fa-python mr-2"></i><a class="font-bold underline hover:text-purple-300" href="https://python.org/">Python</a>.</div>
             </div>
           
           </kinesis-element>
@@ -71,6 +71,7 @@
                   <li><i class="fab fa-vuejs mr-2"></i>Vue.js</li>
                   <li><i class="fab fa-react mr-2"></i>React.js</li>
                   <li><i class="fab fa-node mr-2"></i>Node.js</li>
+                  <li><i class="fab fa-html5 mr-2"></i>HTML5</li>
                   <li><i class="fab fa-git-alt mr-2"></i>Git</li>
                   <li><i class="fab fa-js-square mr-2"></i>Javascript</li>
                   <li><i class="fab fa-discord mr-2"></i>Discord.py &amp; Discord.js</li>
