@@ -1,1 +1,1 @@
-Site Link : https://xharuke.github.io/haruke/
+Site Link : https://xharuke.github.io/
