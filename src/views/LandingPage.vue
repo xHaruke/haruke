@@ -73,7 +73,6 @@
                   <li><i class="fab fa-node mr-2"></i>Node.js</li>
                   <li><i class="fab fa-html5 mr-2"></i>HTML5</li>
                   <li><i class="fab fa-git-alt mr-2"></i>Git</li>
-                  <li><i class="fab fa-js-square mr-2"></i>Javascript</li>
                   <li><i class="fab fa-discord mr-2"></i>Discord.py &amp; Discord.js</li>
                 </ul>
               </div>
