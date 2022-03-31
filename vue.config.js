@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production" ? "/haruke/" : "/",
-  };
-  
+  publicPath:
+    process.env.NODE_ENV === "production" ? "/xharuke.github.io/" : "/",
+};
